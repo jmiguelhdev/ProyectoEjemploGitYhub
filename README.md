@@ -1,4 +1,4 @@
 # ProyectoEjemploGitYhub
 aprendiendo git y git hub
-autor jmhsg
-jmhsg
+autor jmhsg \n
+jmhsg \n
